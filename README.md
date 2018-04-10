@@ -7,4 +7,4 @@ Simple .NET core project which can be run in dev SF on Windows / Visual Studio a
 4. upload.cmd - to upload files & create the app - please change pem  certificate and sf cluster URI
 5. Finally app will be visible on 8080, with output *Hello World - .NET Core Middleware on SF!*
 
-![sample output](img\2018-04-10_23-20-39.png)
+![sample output](/img/2018-04-10_23-20-39.png)
